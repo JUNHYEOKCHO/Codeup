@@ -1,0 +1,3 @@
+﻿word = input()
+
+print(word)
