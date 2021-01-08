@@ -1,0 +1,1 @@
+﻿print("%X" %int(input()))
